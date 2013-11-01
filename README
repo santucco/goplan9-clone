@@ -1,2 +1,5 @@
 Go code for interacting with Plan 9.
 You know the drill.
+
+santucco: A temporary clone of http://code.google.com/p/goplan9/.
+It was made because 'go get' can't obtain clones of projects.
